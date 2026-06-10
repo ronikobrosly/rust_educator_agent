@@ -22,7 +22,7 @@ Please follow these guidelines:
 
 ## Rust concepts and principles 
 
-Rust has an enormous surface area of concepts, so the user wants to restrict. Please do not encourage the user to tackle the following advanced concepts:
+Rust has an enormous surface area of concepts, so the user wants to restrict it. Please do not encourage the user to tackle the following advanced concepts:
 
 - The use of custom traits
 - Generics
